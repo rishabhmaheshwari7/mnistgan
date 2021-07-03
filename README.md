@@ -4,5 +4,7 @@ We'll be building a generative adversarial network (GAN) trained on the MNIST da
 From this, we'll be able to generate new handwritten digits
 
 #Beginning of training
+<br>
 <img src="https://user-images.githubusercontent.com/47009218/124347237-2b08b100-dc01-11eb-8751-e4add86cc5f7.png" width="300" height="400">
+<br>
 #End of training
